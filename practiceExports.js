@@ -15,3 +15,4 @@ function randomArrayElement(arr){
   return arr[index];
 }
 module.exports = isPalindrome;
+//console.log()
